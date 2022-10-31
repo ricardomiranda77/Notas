@@ -1,7 +1,12 @@
 data 31/10/2022
+COMANDOS GIT:
+* git clone --------
+* cd pasta
 * git status
 * git  add .
 * git status
 * git commit -m "Inclusao das notas"
 * git status
 * git push origin main
+
+Link do Markdown https://www.markdownguide.org/basic-syntax/
